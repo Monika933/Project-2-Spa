@@ -1,0 +1,24 @@
+{
+  "name": "project-2-spa",
+  "version": "1.0.0",
+  "description": "SPA Relax app that allows users to schedule appointment for massage and facial services.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monika933/Project-2-Spa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Monika933/Project-2-Spa/issues"
+  },
+  "homepage": "https://github.com/Monika933/Project-2-Spa#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.5"
+  }
+}
