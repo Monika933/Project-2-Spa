@@ -1,8 +1,8 @@
-# Project-2-Spa
+# SPA-RELAX
 
 #### Project 2-Spa-Repo, 2/20/2020
 
-#### By Monika Karanovic, Filip Ratkovic, Tina Karanovic, Peter Gadell
+#### By Monika Karanovic, Filip Ratkovic and Tina Karanovic
 
 ## Description
 SPA Relax app that allows users to schedule appointment for massage and facial services.
@@ -14,21 +14,43 @@ SPA Relax app that allows users to schedule appointment for massage and facial s
 * Users can update there appoitments through our update feature.
 * Users can cancel there appoitments.
 
-## Setup/Installation Requirements
-* Clone this repository.
-* Open repository in your terminal.
-* npm Install then node apps.js
-* Navigate to the localhosted sight on port 3000.
-
-## Known Bugs
-
-## Support and contact details
-Please email me for further questions at 
 
 ## Technologies Used
-HTML
-CSS
-NodeJS
+- Node.js: server framework
+- SQL and JawsDB: databases
+- Jade: HTML templating engine
+- Anime.js: animation engine
+
+
+## Setup/Installation Requirements
+Run Locally:
+1. Clone this repo
+1. Create an SQL database
+1. Enter your database name and credentials in the development section of the /config/config.json file (our db name is 'aelp89rthb15fswb')
+1. Execute "node server.js" in your CLI to start the server
+1. Navigate to localhost:8080 in your browser
+1. Begin with scheduling your SPA treatment
+
+Run Remotely:
+1. Navigate to [GitHub Pages](https://pages.github.com/) https://young-hollows-60791.herokuapp.com/ in your browser
+1. Begin with scheduling your SPA treatment
+
+
+
+## Getting Started:
+
+Step 1: Create your Client account
+
+<img src="/public/images/readmeImages/signUpPage.jpg" width="500">
+
+Step 2: Login to your account!
+
+![Login](/public/images/readmeImages/loginPage.jpg)
+
+Step 3: Schedule your favorite treatment
+![Schedule treatment](/public/images/readmeImages/scheduleTreatment.jpg)
+
+
 ## Contribution Guidlines
 Direct link to site:
 
