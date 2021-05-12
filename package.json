@@ -29,6 +29,6 @@
     "react-anime": "^2.1.0",
     "sequelize": "^4.44.4",
     "sequelizer": "^1.1.4",
-    "swiper": "^4.1.6"
+    "swiper": "^6.5.1"
   }
 }
